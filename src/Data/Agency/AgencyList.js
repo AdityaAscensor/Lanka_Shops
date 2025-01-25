@@ -1,0 +1,55 @@
+
+export const realEstateAgencies = [
+    {
+      id: '1',
+      name: 'Mister T - Real Estate Agency',
+      icon: '🏠',
+      route: 'RealEstateAgency1',
+      description: 'Your trusted partner in buying and selling properties.',
+      location: '8/6 1st Ln, Sri Jayawardenepura Kotte 11222, Sri Lanka',
+      contact: '(123) 456-7890',
+      website: 'https://www.mistert-realestate.com',
+      services: [
+        'Residential Properties',
+        'Commercial Real Estate',
+        'Property Rentals',
+        'Real Estate Consultations',
+      ],
+      googleMapLocation: '8/6 1st Ln, Sri Jayawardenepura Kotte 11222, Sri Lanka',
+    },
+    {
+      id: '2',
+      name: 'Realtors Lanka',
+      icon: '🏠',
+      route: 'RealEstateAgency2',
+      description: 'Leading real estate agency with extensive property listings.',
+      location: 'Colombo 3, Colombo 00300, Sri Lanka',
+      contact: '(234) 567-8901',
+      website: 'https://www.realtorslanka.com',
+      services: [
+        'Property Buying & Selling',
+        'Property Management',
+        'Mortgage Advisory',
+        'Real Estate Investment',
+      ],
+      googleMapLocation: 'Colombo 3, Colombo 00300, Sri Lanka',
+    },
+    {
+      id: '3',
+      name: 'Real Estate Agency Colombo - 247 Agents Sri Lanka Limited',
+      icon: '🏠',
+      route: 'RealEstateAgency3',
+      description: '247 agents ready to assist you in all your real estate needs.',
+      location: '1 Rotunda Gardens, Colombo 00300, Sri Lanka',
+      contact: '(345) 678-9012',
+      website: 'https://www.247agentsrealestate.com',
+      services: [
+        'Residential Sales',
+        'Property Rentals',
+        'Luxury Real Estate',
+        'Land Sales',
+      ],
+      googleMapLocation: '1 Rotunda Gardens, Colombo 00300, Sri Lanka',
+    },
+  ];
+  
